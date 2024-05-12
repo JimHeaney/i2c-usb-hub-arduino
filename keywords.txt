@@ -1,0 +1,5 @@
+i2cusb	KEYWORD1
+begin	KEYWORD2
+setPort	KEYWORD2
+setLEDs	KEYWORD2
+setCurrent	KEYWORD2
